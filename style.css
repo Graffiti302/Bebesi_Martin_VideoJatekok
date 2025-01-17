@@ -68,3 +68,10 @@ background-color: rgb(17, 17, 17);
 padding: 10px;
 
 }
+
+.tarolo{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+box-sizing: border-box;
+}
+
