@@ -69,11 +69,9 @@ padding: 10px;
 
 }
 
-
-.tarolo {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    border: 15 px;
-    border-radius: 30%;
-    border-color: aqua;
+.tarolo{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+box-sizing: border-box;
 }
+
